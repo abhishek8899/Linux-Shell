@@ -4,6 +4,8 @@ Shell Progaram Description
 To compile: Run "make"
 To run the program: Execute "terminal"
 
+'''Process calls and all basic commands are handled efficiently'''
+
 File Descriptons:
 
 shell.c: Contains main function,clock function and commands interpret function.

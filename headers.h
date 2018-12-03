@@ -1,0 +1,25 @@
+#ifndef HEAD
+#define HEAD
+#include <stdio.h>
+#include <stdlib.h>
+#include <unistd.h>
+#include <limits.h>
+#include <math.h>
+#include <string.h>
+#include <sys/wait.h>
+#include <dirent.h>
+#include <sys/types.h>
+#include <sys/stat.h>
+#include <time.h>
+#include <fcntl.h>
+#include <grp.h>
+#include <pwd.h>
+#include "ls.c"
+#include "prmpt.c"
+#include "inp.c"
+#include "pwd.c"
+#include "pif.c"
+#include "cdd.c"
+#include "echo.c"
+#include "env.c"
+#endif
